@@ -67,7 +67,7 @@ class App extends Component {
             <span className="thin">Matching</span>
               <span className="thick">Pairs</span>
             </div>
-            <a href="https://www.samcortes.com" className="nav-more">
+            <a href="https://www.samanthaio.com" className="nav-more">
               more from sam&nbsp;
               <i className="fa fa-angle-right"></i>
             </a>
